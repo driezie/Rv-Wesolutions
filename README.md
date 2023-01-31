@@ -8,7 +8,7 @@ Ik heb zelf ook meegeholpen met websites voor klanten. Hier heb ik een paar voor
 
 Het volgende project is een klein project waar ik niet veel in heb geprogrammeerd omdat het grootste deel al klaar was. Ik heb bij Moontopup (giftcard webshop) de website getest op fouten zodat de klanten geen problemen krijgen bij het bestellen van hun giftcards. Dit project was er in verschillende talen dus het was bestr lastig om het allemaal te begrijpen.
 
-Het volgende project is van Naturlig. Dit is een bedden website die gespecioaliseerd is in het maken van custom bedden die klanten zelf in elkaar kunnen zetten. Deze project is helaas nog niet helemaal af omdat mijn stage stopte voordat de website helemaal afgerond was.
+Het volgende project is van Naturlig. Dit is een bedden website die gespecialiseerd is in het maken van custom bedden die klanten zelf in elkaar kunnen zetten. Deze project is helaas nog niet helemaal af omdat mijn stage stopte voordat de website helemaal afgerond was.
 
 Het was heel leuk om met all deze verschillende websites & klanten te werken en ik heb veel geleerd. Vooral heb ik geleerd om georganiseerd te werken met de modules en functies die zij al hadden gemaakt. Hierbij moest ik mij dus aanpassen op wat ze hadden gemaakt. Ook moest ik goed CSS hergebruiken zodat ik niet hele grote CSS bestanden krijg. Dit werkt beter voor het Google zoekresultaat en zal de pagina ook sneller van laden.
 
