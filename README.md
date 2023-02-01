@@ -7,7 +7,7 @@ De inhoud. Eerst ga ik vertellen over wat RV websolutions nou eigenlijk is. Wat 
 ### Wat is RV Websolutions
 Rv websolutions is een web bedrijf die websites voor klanten maakt. Het is eigenlijk dat simpel. Klanten komen naar dit bedrijf toe en het bedrijf maakt de website voor hun. Ze gebruiken een speciale back/end systeem waarbij ze data op de website aanpasbaar kunnen maken. Dit systeem hebben ze zelf ontwikkeld speciaal voor RV websolutions en dat heet iMod.
 
-### Wat voor projecten heb ik gedaan=
+### Wat voor projecten heb ik gedaan?
 
 Mijn eerste project was voor een zaalvoetbal bedrijf. Ik heb hier samen met de hulp van Gewin een website in elkaar gezet waarin je de elftallen kunt bekijken, de programma´s van alle teams kunt bekijken en de nieuws kunt bekijken.
 
